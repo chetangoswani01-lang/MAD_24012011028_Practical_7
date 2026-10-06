@@ -47,15 +47,12 @@ The `Person` model implements `Serializable`, which allows person objects to be 
 
 ## Screenshots
 
-### 1. Application - Light Mode
-
-[![Light Mode](screenshots/1.png)](screenshots/1.png)
-
----
-
-### 2. Application - Dark Mode
-
-[![Dark Mode](screenshots/2.png)](screenshots/2.png)
+<table>
+  <tr>
+    <td><img width="332" height="747" alt="screenshots1" src="https://github.com/user-attachments/assets/55fc4a20-a139-403e-ac93-47807948fa5e" /></td>
+    <td><img width="342" height="755" alt="screenshots2" src="https://github.com/user-attachments/assets/8281e77e-0a8e-484f-8ebe-434123abc5b4" /></td>
+  </tr>
+</table>
 
 ---
 
